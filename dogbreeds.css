@@ -1,0 +1,15 @@
+#rankingBox {
+	width: 52em;
+	background-color: blue;
+	color: white;
+	padding: 1em;
+	text-align: left;
+	list-style: none;
+}
+
+li {
+  width: 10em;
+  display: block;
+}
+
+
